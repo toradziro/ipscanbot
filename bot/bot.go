@@ -8,8 +8,8 @@ import (
 )
 
 const (
-	accessKey = "819fd023013dee1687749eeab7478640"
-	accessBot = "1990350601:AAFVplgLwyOM7ZjPP5Fw1WHQKv9W_ey4eMI"
+	accessKey = ""
+	accessBot = ""
 	endl = "\n"
 	pattern = "^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$"
 )
